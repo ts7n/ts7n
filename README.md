@@ -21,7 +21,7 @@ Primarily: JavaScript, TypeScript, Python, Java, C/C++, HTML/CSS, Swift
 - Created a curricular and plugin that enables teaching computer science through Minecraft. (ts7n/tcvmc)
 - Created an embeddings-powered search engine for class materials that understands the meaning of words in context. ([ts7n/cmsearch](https://github.com/ts7n/cmsearch))
 - Created the layout, and home and about pages of the Congressional App Challenge alumni-led podcast Debugged's website. Integrates with Notion as the site's CMS. (ts7n/debugged; [Website](https://cacdebugged.org))
-- Created a website to answer questions about the FIRST Robotics FTC Game Manual with AI and embeddings-based search. Refers to specific pages for the most accurate information. ([ts7n/ftc-manual](https://github.com/ts7n/ftc-manual))
+- Created a website to answer questions about the FIRST Robotics FTC Game Manual with AI and embeddings-based search. Refers to specific pages for the most accurate information. ([ts7n/ftc-manual](https://github.com/ts7n/ftc-manual); [Website](https://ftc-game-manual.tml.sh))
 - Created a multiplayer, VR-enabled platform for exploring, collaborating, and creating in 3D worlds. (ts7n/worlds)
 - Created a web interface and connected it wirelessly to Arduino-powered arcade buttons for voting on This or That questions. (ts7n/lcboard)
 - Created an AI interface to query government data and interact with government services using natural language. Includes a backend for agencies to easily enable integration with their own sites and systems. (ts7n/mygov-ai)
