@@ -8,6 +8,8 @@ Primarily: JavaScript, TypeScript, Python, Java, C/C++, HTML/CSS, Swift
 
 ## Projects
 
+*Work for hire not listed.*
+
 ### 2025
 
 - Created a WordPress-integrated content management system and collaborative rich text editor to replace Google Docs and SNO FLOW with more bespoke tooling for web publications. (ts7n/tabula)
