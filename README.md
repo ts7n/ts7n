@@ -42,4 +42,4 @@ Primarily: JavaScript, TypeScript, Python, Java, C/C++, HTML/CSS, Swift
 
 - Created an iOS app that tells you if something is recyclable (and how) with just a picture. ([ts7n/precycle](https://github.com/ts7n/precycle))
 - Created a web game that teaches kids how to recycle through four interactive modules, each containing educational content and a game to test your knowledge. Also included group progress tracking features for teachers and parents. ([ts7n/werecycle](https://github.com/ts7n/werecycle); Congressional App Challenge winner)
-- Created a multi-student gradebook with support for grade weighting and different grading systems. ([ts7n/gradebook])
+- Created a multi-student gradebook with support for grade weighting and different grading systems. (ts7n/gradebook)
