@@ -29,6 +29,7 @@ Primarily: JavaScript, TypeScript, Python, Java, C/C++, HTML/CSS, Swift
 - Created an iOS app to time the Abbey Marina harbor light on Lake Geneva, WI. (ts7n/abbey-marina-timer; [App Store](https://apps.apple.com/us/app/abbey-marina-timer/id6451077885))
 - Created a website to image, provision, and connect to Windows cloud virtual machines on demand for guided student use. (ts7n/evme)
 - Created an iPad app to give anyone—regardles of technical background—a solid understanding of how neural networks and computer vision actually work through the opportunity to design and train their own AI models. (ts7n/beepo-cv; Apple Swift Student Challenge winner)
+- Created a proof of concept social media app for iOS that involved live location sharing, messaging, calling, and identity verification. (Work For Hire)
 
 ### 2023
 
