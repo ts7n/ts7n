@@ -8,7 +8,7 @@ Primarily: JavaScript, TypeScript, Python, Java, C/C++, HTML/CSS, Swift
 
 ## Projects
 
-*Work for hire not listed.*
+*Not all work for hire publicly listed.*
 
 ### 2025
 
