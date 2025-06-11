@@ -18,7 +18,7 @@ Primarily: JavaScript, TypeScript, Python, Java, C/C++, HTML/CSS, Swift
 ### 2024
 
 - Created a map of Project Week Instagram posts and stories for my school newspaper. (ts7n/pweek; [Story](https://readtheforum.org/25847/project-week-2025/special-forum-coverage-from-project-week-2025/))
-- Created a curricular and plugin that enables teaching computer science through Minecraft. (ts7n/tcvmc)
+- Created a curriculum and plugin that enables teaching computer science through Minecraft. (ts7n/tcvmc)
 - Created an embeddings-powered search engine for class materials that understands the meaning of words in context. ([ts7n/cmsearch](https://github.com/ts7n/cmsearch))
 - Created the layout, and home and about pages of the Congressional App Challenge alumni-led podcast Debugged's website. Integrates with Notion as the site's CMS. (ts7n/debugged; [Website](https://cacdebugged.org))
 - Created a website to answer questions about the FIRST Robotics FTC Game Manual with AI and embeddings-based search. Refers to specific pages for the most accurate information. ([ts7n/ftc-manual](https://github.com/ts7n/ftc-manual); [Website](https://ftc-game-manual.tml.sh))
